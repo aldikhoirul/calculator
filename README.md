@@ -1,2 +1,2 @@
 # calculator
-Akses Link aldiggy.github.io/calculator
+Akses Link https://aldiggy.github.io/calculator/
